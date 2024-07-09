@@ -1,0 +1,11 @@
+/dist
+/node_modules
+/coverage
+.nx/cache
+.nx/workspace-data
+.turbo
+.nvmrc
+.nvm
+.DS_Store
+.idea
+.vscode
